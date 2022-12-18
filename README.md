@@ -1,2 +1,2 @@
 # rsschool-cv
-https://bravebars.github.io/rsschool-cv/cv
+https://bravebars.github.io/rsschool-cv
